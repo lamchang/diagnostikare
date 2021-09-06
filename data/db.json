@@ -1,0 +1,14 @@
+{
+  "users": [],
+  "interviews": [
+    {
+      "name": "Alan",
+      "birthday": "2021-09-17",
+      "phone": "1234567890",
+      "symptom": "Test",
+      "interviewDate": "2021-09-30",
+      "interviewHour": "9:00",
+      "id": 1
+    }
+  ]
+}

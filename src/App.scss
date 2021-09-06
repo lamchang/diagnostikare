@@ -1,0 +1,10 @@
+.container {
+  &.container--small {
+    width: 100%;
+    max-width: 520px;
+  }
+}
+
+.body {
+  min-height: calc(100vh - 290px);
+}
